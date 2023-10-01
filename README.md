@@ -7,7 +7,7 @@ CSS framework [Bootstrap](https://getbootstrap.com).
 1. Udělej fork zdrojového repository do svého účtu na GitHubu.
 1. Naklonuj si repository **ze svého účtu** na GitHubu na lokální počítač.
 1. Úvodní stránka `static/index.html` už je připravená.
-1. Vytvoř kontrolér – třídu `cz.czechitas.java2webapps.lekce2.controller.MainController`.
+1. Vytvoř kontrolér – třídu `cz.czechitas.java2webapps.lekce2.cz.czechitas.java2webapps.lekce2.controller.MainController`.
 1. V kontroléru budou dvě metody – jedna bude navázána na cestu `/datum`, druhá na cestu `/cas`.
 1. Obě metody budou vracet `ModelAndView`, view bude pro každou metodu jiné.
 1. Metoda pro výpis data vloží do modelu datum zformátované v českém formátu:
